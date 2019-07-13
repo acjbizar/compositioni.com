@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190713",
+    "name": "Composition i",
+    "default_locale": "en",
+    "description": "Conceptual website + domain name, 2012.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#111122",
+    "homepage_url": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "https://compositioni.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}

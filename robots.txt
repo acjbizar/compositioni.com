@@ -1,1 +1,1 @@
-Sitemap: http://compositioni.com/sitemap.xml
+Sitemap: https://compositioni.com/sitemap.xml
